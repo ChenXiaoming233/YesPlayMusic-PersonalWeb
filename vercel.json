@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-api-backup-k4ffrpr4u-chenxiaomings-projects.vercel.app/"
+    }
+  ]
+}
